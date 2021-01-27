@@ -7,6 +7,6 @@ Here I have created Dark mode extension for youtube.
   - extract folder
   - Now open this folder in IDE (I'm using Visual Studio Code)
   - Navigate to terminal 
-      - hit below command to initilize 
+      - hit below command to initilize project and configure
           - npm init
           - npm i types @types/chrome
