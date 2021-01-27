@@ -26,7 +26,10 @@ function enableDarkMode()
     document.getElementsByTagName('ytd-app')[0].style
     .backgroundColor = "Black";       
     document.querySelector('#guide-renderer').style.backgroundColor = "#ddd";
-    document.querySelector('#video-title').style.color = "White"
+    document.querySelector('#video-title').style.color = "White";
+    document.getElementsByTagName('yt-formatted-string').style
+    .bolor = "White";       
+
     
 
 
@@ -36,5 +39,5 @@ function disableDarkMode()
     document.getElementsByTagName('ytd-app')[0].style
     .backgroundColor = "white";       
     document.querySelector('#guide-renderer').style.backgroundColor = "white";
-    document.querySelector('#video-title').style.color = "Black"
+    document.querySelector('#video-title').style.color = "Black";
 }
