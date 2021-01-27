@@ -10,3 +10,13 @@ Here I have created Dark mode extension for youtube.
       - hit below command to initilize project and configure
           - npm init
           - npm i types @types/chrome
+  - open chrome browser
+     - Navigate to extensions from manage extensions or enter below line in URI.
+         - chrome://extensions 
+         - Enable Developer mode
+     -  click on 'load unpacked' and select src folder
+     - click ok
+ - You will found that, it is added to your extensions.
+ Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
+ 
+ Follow me for more Updates
