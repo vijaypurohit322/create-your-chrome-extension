@@ -1,0 +1,28 @@
+{
+    "name": "Youtube in Dark mode",
+    "version": "1.0.0",
+    "description": "this is my very first cool extension",
+    "manifest_version": 2,
+    "background": {
+        "scripts":["background.js"],
+        "persistent": false
+    },
+    "content_scripts":[
+        {
+            "matches": ["https://*.youtube.com/*"],
+            "exclude_matches": ["https://*.youtube.com/watch*"],
+            "js": ["content.js"],
+            "run_at":"document_end"
+        }
+    ],
+    "permissions":[
+        "bookmarks"
+    ],
+    "icons": {
+        "128":"darkmode128.png"
+    },
+    "browser_action":{
+        "default_title":"Created by Vijay Purohit, enjoy ! :)"
+    }
+
+}
