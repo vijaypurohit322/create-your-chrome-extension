@@ -2,8 +2,7 @@
 Here I have created Dark mode extension for youtube.
 
 --------
-##Steps for Plgu and play :-
-  - download and install Node.js
+## Steps to Plug and play :-
   - download this repo.
   - extract folder
   - open chrome browser
