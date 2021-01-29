@@ -1,6 +1,10 @@
 # create-your-chrome-extension
 Here I have created Dark mode extension for youtube.
 
+--------
+
+----------------
+## Steps for modification (developer use only) :- 
 ### Follow steps to run this at your system
   - download and install Node.js
   - download this repo.
