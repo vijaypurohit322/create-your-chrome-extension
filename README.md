@@ -1,4 +1,4 @@
-# create-your-chrome-extension
+# Create your own Chrome extension
 Here I have created Dark mode extension for youtube.
 
 --------
