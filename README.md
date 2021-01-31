@@ -14,7 +14,9 @@ Here I have created Dark mode extension for youtube.
  - You will found that, it is added to your extensions.
  Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
 
+
 ----------------
+
 ## Steps for modification (developer use only) :- 
 ### Follow steps to run this at your system
   - download and install Node.js
