@@ -12,7 +12,7 @@ Here I have created Dark mode extension for youtube.
      -  click on 'load packed' and select src folder
      - click ok
  - You will found that, it is added to your extensions.
- Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
+ - Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
 
 
 ----------------
@@ -35,7 +35,7 @@ Here I have created Dark mode extension for youtube.
      -  click on 'load unpacked' and select src folder
      - click ok
  - You will found that, it is added to your extensions.
- Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
+ - Now open Youtube and click on "Do it Dark" button, and enjoy !  :).  
  --------------
 
  
